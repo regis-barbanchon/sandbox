@@ -6,7 +6,7 @@ public class HelloWorld {
     public static String greeting(Language language) {
         switch (language) {
             case FR: return "Bonjour le monde !";
-            case EN: return "Hello World !";
+            case EN: return "Hello World!";
             default: return null;
         }
     }
