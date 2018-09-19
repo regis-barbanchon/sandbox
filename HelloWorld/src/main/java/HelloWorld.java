@@ -1,6 +1,3 @@
-import org.omg.CORBA.FREE_MEM;
-
-import javax.security.auth.RefreshFailedException;
 
 public class HelloWorld {
 
